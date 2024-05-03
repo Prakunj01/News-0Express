@@ -1,0 +1,27 @@
+.social .socBox {
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    color: #fff;
+  }
+  .social .socBox i {
+    margin-right: 10px;
+    display: flex;
+  }
+  .social .socBox span {
+    font-weight: 500;
+  }
+  .social .socBox:nth-child(1) {
+    background-color: #3b5998;
+  }
+  .social .socBox:nth-child(2) {
+    background-color: #bd081c;
+  }
+  .social .socBox:nth-child(3) {
+    background-color: #1da1f2;
+  }
+  .social .socBox:nth-child(4) {
+    background-color: #c32aa3;
+  }
+  .social .socBox:nth-child(5) {
+    background-color: #ff0000;
+  }
